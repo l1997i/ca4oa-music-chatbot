@@ -1,7 +1,8 @@
 package com.luisli.cagpt.utils
 open class Event<out T>(private val content: T) {
     var consumed = false
-        private set     fun consume(): T? {
+        private set
+        fun consume(): T? {
         return if (consumed) {
             null
         } else {
