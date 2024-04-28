@@ -1,0 +1,2 @@
+rootProject.name = "Durham CA4OA"
+include ':app'

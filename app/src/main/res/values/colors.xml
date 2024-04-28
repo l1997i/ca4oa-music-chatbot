@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBg">#F7F7F7</color>
+    <color name="colorPrimary">#FF6750A2</color>
+    <color name="colorPrimaryDark">#FF6750A2</color>
+    <color name="colorAccent">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_midnight_blue">#FF96A7AF</color>
+    <color name="received_grey">#E0E0E0</color>
+    <color name="sent_purple">#CFBDF1</color>
+    <color name="textbox_purple">#EDEBF5</color>
+        <color name="grey_50">#FAFAFA</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_700">#505050</color>
+    <color name="grey_800">#424242</color>
+</resources>
