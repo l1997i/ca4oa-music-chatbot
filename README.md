@@ -13,7 +13,7 @@ CA4OA Music ChatBot is the ultimate mobile app with seamless AI assistance at yo
 
 👉📈 With Durham CA4OA ChatBot, you can get real-time results like ChatGPT
 
-<p><strong> Click <a href="https://github.com/l1997i/ca4oa-music-chatbot/blob/main/ca4oa_music_chatbot_paper.pdf">HERE</a> to download the development documentation on Durham CA4OA ChatBot. </strong></p>
+<p><strong> Click <a href="https://github.com/l1997i/ca4oa-music-chatbot/blob/main/ca4oa_music_chatbot_doc.pdf">HERE</a> to download the development documentation on Durham CA4OA ChatBot. </strong></p>
 
 ## Sailent Features
 
