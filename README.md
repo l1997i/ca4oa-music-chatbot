@@ -4,6 +4,8 @@
 [![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=23)
 <br>
 
+https://github.com/l1997i/ca4oa-music-chatbot/assets/35445094/719f6012-a7dc-4f93-ab42-ce0104f926e8
+
 CA4OA Music ChatBot is the ultimate mobile app with seamless AI assistance at your fingertips! Say goodbye to screen-switching! 📱🤖.
 
 ## About
@@ -61,4 +63,21 @@ the software, provided that the original copyright notice and this permission no
 in all copies or substantial portions of the software. By using this software, you agree to adhere 
 to the terms and conditions of the MIT License.
 
+```
+## Citation
+
+If you are making use of this work in any way, you must please reference the following paper in any report, publication, presentation, software release or any other associated materials:
+
+[Inclusive AI-driven Music Chatbots for Older Adults](#) (Aziz, Farkhandah and Law, Effie and Li, Li and Chen, Shuang), In _Engineering Interactive Systems Embedding AI Technologies (EISEAIT)_, 2024. [[code](https://github.com/l1997i/ca4oa-music-chatbot)] [[pdf](https://www.luisli.org/assets/pdf/EISEAIT_2024_paper_4.pdf)] [[demo](https://github.com/l1997i/ca4oa-music-chatbot/assets/35445094/719f6012-a7dc-4f93-ab42-ce0104f926e8)] 
+
+
+```bib
+@inproceedings{aziz2024inclusive,
+  title = {Inclusive {AI}-driven {Music} {Chatbots} for {Older} {Adults}},
+  booktitle = {Engineering Interactive Systems Embedding AI Technologies},
+  author = {Aziz, Farkhandah and Law, Effie and Li, Li and Chen, Shuang},
+  publisher = {ACM},
+  year = {2024},
+  month = may,
+}
 ```
